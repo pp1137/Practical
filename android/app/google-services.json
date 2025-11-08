@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "899346437941",
+    "project_id": "practical-fountane",
+    "storage_bucket": "practical-fountane.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899346437941:android:395a44e5b3f4e78365de7c",
+        "android_client_info": {
+          "package_name": "com.practical_fountane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899346437941-7uhmueo4493ohtouk353jl8vjmdid3tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practical_fountane",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "899346437941-vf04h85485r7v7hen4b208rot6u37dfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJjEOfueY0-Etux2DDedWTDBhBz59JLXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899346437941-vf04h85485r7v7hen4b208rot6u37dfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
