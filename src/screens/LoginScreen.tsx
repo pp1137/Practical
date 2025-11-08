@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, Alert } from 'react-native';
-import { z } from 'zod';
-// import { loginSchema } from '../utils/zodSchemas';
 import { sendOtp } from '../api/mockApi';
 import { StackNavigationProp } from '@react-navigation/stack';
 

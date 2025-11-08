@@ -85,7 +85,7 @@ export default function OtpScreen({ route, navigation }: any) {
     try {
       const { token, user } = await verifyOtp(identifier, otp);
       await login(user, token);
-      ToastAndroid.show('Login Successful 🎉', ToastAndroid.SHORT);
+      ToastAndroid.show('Login Successful', ToastAndroid.SHORT);
       navigation.replace('Home');
     } catch (e: any) {
       Alert.alert('Error', e.message);
